@@ -1,0 +1,17 @@
+#box {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 20px;
+}
+
+.para {
+  background-color: #636e72;
+  grid-gap: 15px;
+  list-style-type: none;
+  padding: 15px;
+}
+
+.para img {
+  width: 250px;
+  height: 200px;
+}
